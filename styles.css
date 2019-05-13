@@ -1,0 +1,84 @@
+html, body{
+
+}
+body {
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+}
+
+main {
+    
+}
+
+#main-doc {
+    position: absolute;
+    margin-left:150px;
+    padding:20px;
+    margin-bottom:50px;
+  
+}
+
+section {
+
+}
+.code {
+    background-color: rgb(204, 201, 201);
+    width: 25%;
+    padding-left: 1%;
+}
+
+.main-section {
+    
+}
+
+header {    
+    
+}
+
+#navbar {
+    position: fixed;
+    text-align: center;
+    left: 0px;
+    border: 1px solid;
+    background-color: lightgray;
+    height: 100%;
+}
+
+#navbar li {
+    list-style: none;
+    height: 75px;
+    margin-right: 1px;
+}
+
+#navbar li a {
+    display: block;
+    border: 1px black solid;
+    background-color: rgb(204, 201, 201);
+    width: 100%;
+
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+a { 
+    
+}
+
+a:hover { 
+    background-color: orange;
+  }
+
+footer {
+    position: relative;
+    margin-left:150px;
+}
+
+@media only screen and (max-width: 815px){
+
+    #navbar {
+
+    }
+
+}
