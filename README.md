@@ -17,3 +17,9 @@ Dayren Tolliver
 ### Things I learned:
 * Learned how to insert code snippets onto a page
 * Learned how to create a nav bar
+
+
+### How it works:
+
+### Things I learned:
+
