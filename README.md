@@ -1,6 +1,6 @@
 # technical-document-page
 Created the 'Technical Document Page' for a freeCodeCamp assignment.
-View site here: https://dayrentolliver.github.io/technical-document-page/
+View site here: https://dayrentolliver.com/technical-document-page/
 
 ### Author(s):
 Dayren Tolliver
@@ -10,7 +10,7 @@ Dayren Tolliver
 * CSS
 
 ### How to use it:
-1. Open the technical document page: https://dayrentolliver.github.io/technical-document-page/
+1. Open the technical document page: https://dayrentolliver.com/technical-document-page/
 2. Utilize the navigation bar to go to the corresponding section
 3. Click on the provided links 
 
